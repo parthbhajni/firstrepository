@@ -1,0 +1,2 @@
+# firstrepository
+its about python
